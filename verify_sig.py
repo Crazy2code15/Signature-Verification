@@ -99,6 +99,5 @@ matching_image= img_list[max_index]
 
 print("\n")
 print("Test images matches with: ", matching_image)
-
 print("\n")
 
